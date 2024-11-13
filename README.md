@@ -21,12 +21,12 @@ cd dns-client
 ## Usage
 
 ```bash
-python main.py <hostname>
+python3 main.py <hostname>
 ```
 
 Example:
 ```bash
-python main.py example.com
+python3 main.py example.com
 ```
 
 The client will display detailed information about the DNS resolution process, including:
@@ -68,10 +68,6 @@ For debugging purposes, you can use Wireshark to capture and analyze the DNS pac
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-[Your chosen license]
 
 ## Acknowledgments
 
